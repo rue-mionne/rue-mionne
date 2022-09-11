@@ -4,9 +4,10 @@ Working on:
   - C
   - Rust
   - UNIX programming
-  - Raspberry PI assembly
+  - C++
 
 
 Next project(s) coming up:
 
   Project 0: Rewriting my old C code using clean code principles (and probably overengineering it in process).
+  Project 1: Daily/weekly missions/resources tracker for game (CLI, maybe upgrade to graphical interface)
