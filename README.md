@@ -10,6 +10,6 @@
 
 Next project(s) coming up:
 
-  <p><s>Project 0: Rewriting my old C code using clean code principles (and probably overengineering it in process).</s> Abandoned, due to a new project for an assingment also needs a clean code practice</p>
+  <p><s>Project 0: Rewriting my old C code using clean code principles (and probably overengineering it in process).</s> Abandoned, due to a new project for an assingment also needing a clean code practice</p>
   <p><u>Project 1: Daily/weekly missions/resources tracker for game <s>(CLI, maybe upgrade to graphical interface)</s>(WxWidgets based UI with enough abstraction for a possible switch in a future)</u></p>
   <p><u>Project 1.5: Project 1 but with analysis module using genetic algorithm (best solution? not, is it fun? yup), using Java and JavaFX with database support using SQLite</u></p>
